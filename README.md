@@ -1,6 +1,8 @@
 
-cordova-gmv-barcode-scanner
-===========================
+@cityheroes/cordova-gmv-barcode-scanner
+=======================================
+
+This fork fixes a bug in which the camera closing after scanning a code causes the application to crash.
 
 Purpose of this Project
 -----------------------
